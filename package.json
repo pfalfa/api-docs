@@ -1,0 +1,28 @@
+{
+  "name": "api-docs",
+  "version": "0.1.0",
+  "description": "API Document Pfalfa",
+  "main": "index.js",
+  "repository": "git@github.com:pfalfa/api-docs.git",
+  "license": "Apache2",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.0.0",
+    "express-session": "^1.17.0",
+    "helmet": "^3.21.2",
+    "morgan": "^1.9.1",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
