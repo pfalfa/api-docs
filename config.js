@@ -17,7 +17,7 @@ module.exports = {
   swagger: {
     swaggerDefinition: {
       openapi: '3.0.1',
-      host: 'http://localhost:3030',
+      host: 'https://pfalfa-api.pfalfa.io',
       basePath: '/',
       info: {
         title: 'API Document Pfalfa',
