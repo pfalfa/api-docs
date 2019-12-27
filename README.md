@@ -23,5 +23,5 @@ $ docker run --name pfalfa-api-docs -d -p 3030:3030 pfalfa-api-docs
 
 ## API Docs
 
-Document Online : [https://staging-pfalfa-api-docs.pfalfa.io//api](https://staging-pfalfa-api-docs.pfalfa.io//api)  
-Demo Online : [https://staging-pfalfa-api-docs.pfalfa.io//api/demo](https://staging-pfalfa-api-docs.pfalfa.io//api/demo)
+Document Online : [https://staging-pfalfa-api-docs.pfalfa.io/api](https://staging-pfalfa-api-docs.pfalfa.io/api)  
+Demo Online : [https://staging-pfalfa-api-docs.pfalfa.io/api/demo](https://staging-pfalfa-api-docs.pfalfa.io/api/demo)
